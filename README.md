@@ -1,1 +1,1 @@
-My First Conflict Version
+Version Master
