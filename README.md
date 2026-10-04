@@ -3,3 +3,4 @@ New line from local git repo.
 ERRROR
 New line from local git repo.
 ERRROR
+New line from local git repo.
